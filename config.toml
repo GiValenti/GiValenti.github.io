@@ -1,8 +1,8 @@
 relativeURLs = true
-languageCode = 'en-us'
 title = 'Giulia Valenti'
+theme = "academimal"
 sectionPagesMenu = "main"
-theme = 'academimal'
+defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
