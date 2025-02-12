@@ -1,11 +1,14 @@
-relativeURLs = true
-title = "Giulia Valenti"
-theme = "academimal"
-sectionPagesMenu = "main"
-defaultContentLanguage = "en"
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Giulia Valenti'
+theme = 'academimal-theme'
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD candidate at Ca' Foscari University, Venice"
-    logo = "Rao_headshot_berkeley.jpg" 
+    shortbio = "PhD Candidate, Ca'Foscari University"
+    logo = "ap_headshot_1.jpg" 
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-FPJWJQY0RE'
     
