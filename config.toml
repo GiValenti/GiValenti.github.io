@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+relativeURLs = true
 languageCode = 'en-us'
 title = 'Giulia Valenti'
-theme = 'academimal-theme'
+sectionPagesMenu = "main"
+theme = 'academimal'
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
