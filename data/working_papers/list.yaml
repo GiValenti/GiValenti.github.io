@@ -1,38 +1,21 @@
 works:
 
-- title: "Not Learning from Others"
-  pdflink: "/pdf/Not Learning from Others.pdf"
-  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  book: "Revised and Resubmitted, Econometrica"
-  note: "Current Version: October 2022"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"
+- title: "Mortality, Temperature, and Public Adaptation Policy: Evidence from Italy"
+  pdflink: "https://fpavanello.github.io/files/fp_gv_hhws.pdf"
+  coauthors: "Filippo Pavanello"
+  note: "Current Version: December 2024"
   abstract: >
-      We provide evidence of a powerful barrier to social learning: people are much less sensitive to information others discover compared to equally-relevant information they discover themselves. In a series of incentivized lab experiments, we ask participants to guess the color composition of balls in an urn after drawing balls with replacement. Participants' guesses are substantially less sensitive to draws made by another player compared to draws made themselves. This result holds when others' signals must be learned through discussion, when they are perfectly communicated by the experimenter, and even when participants see their teammate drawing balls from the urn with their own eyes. We find a crucial role for  taking some action to generate one's `own' information, and rule out distrust, confusion, errors in probabilistic thinking, up-front inattention and imperfect recall as channels.
+    In 2004, Italy introduced a national program to address heat-related health risks through public awareness campaigns, heatwave warning systems, and hospital protocols. Leveraging administrative mortality data, temperature variations, and the plausibly exogenous timing of the policy’s rollout, this paper shows that the program mitigated the mortality impact of extreme heat (days at or above 30 °C) by more than 57%. Exploring the mechanisms, we find that the staggered implementation of the heat wave warning systems contributed to reducing excess mortality on days exceeding 30 °C in treated provinces. We further show that enhancing access to information is essential to achieving these mitigating effects. Our findings underscore the critical role of public adaptation policies that leverage information disclosure on the health risks associated with heat stress.
 
-- title: "The Endowment Effect and Collateralized Loans"
-  pdflink: "/pdf/Rao_Endowment_Effect_Collateralized_Loans.pdf"
-  coauthors: "Kevin Carney, Michael Kremer and Xinyue Lin"
-  book: "Revise and Resubmit, Econometrica"
-  note: "Current Version: May 2022"
+- title: "Hot Wages: How Do Heat Waves Change the Earnings Distribution?"
+  pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096539"
+  coauthors: "Francesco Vona"
+  note: "Current Version: December 2022"
   abstract: >
-      Collateral requirements play an important role in credit markets. This paper shows that the endowment effect---the phenomenon where owing a good increases one's valuation of it---inhibits demand for loans which use a borrower's existing assets as collateral. Using a field experiment in Kenya, we show that borrowers instead strongly prefer loans collateralized using the new durable assets being financed by the loans themselves. They are willing to pay 9% per month higher interest for such Same-Asset Collateralized Loans (SACLs) despite the endowed and new assets being randomized, and thus similarly valued before ownership. Our findings imply that assets which are difficult to use as collateral---which cannot be financed by SACLs---will be invested in less, even if the borrower has other collateral. We argue that borrowers' preference for SACLs is driven by naivete: they initially perceive that they have little to lose when offered a SACL, but subsequently come to develop an attachment to the new asset, resulting in high repayment effort. Consistent with this, borrowers underestimate their future attachment to an asset before owning it, and SACLs do not have higher default rates despite having higher demand. We derive the conditions under which offering consumers SACLs increases or conversely decreases borrower welfare.
+      This paper examines the impact of temperature shocks, measured by cold and heat waves, on labour market outcomes across 14 European countries. Using retrospective individual-level data from the Survey on Health, Ageing, and Retirement in Europe (SHARE) and daily climate data from the E-OBS dataset, we analyze the effect on wages and occupational transition. By leveraging plausibly exogenous weather shocks, we find that heat waves significantly reduce individual income, with losses accumulating over time. Moreover, our analysis documents that older individuals, those with severe health conditions, and workers in heat-exposed occupations experience particularly large income reductions. Losses are also more pronounced in Mediterranean and Eastern European countries, as well as in regions with less regulated wage-setting mechanisms. Additionally, our findings suggest that heat waves increase the likelihood of changing jobs and in particular to transition from heat-exposed to non-heat-exposed occupations. These results underscore the need for targeted policy interventions to mitigate economic losses and protect vulnerable workers in the face of increasing climate variability.
 
-- title: "Learning in the Household"
-  pdflink: "/pdf/Learning in the Household.pdf"
-  coauthors: "John Conlon, Malavika Mani, Matthew Ridley and Frank Schilbach"
-  note: "New Version: October 2022"
-  links:
-    - url: "https://www.socialscienceregistry.org/trials/4253"
-      text: "Pre-Registration"
-  abstract: >
-      Do spouses pool useful information and  learn from each other when they have incentives to do so? In an experiment with married couples in India, we vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their own and their husband's information the same. In contrast, men respond half as much to information discovered by their wife, even when it is perfectly communicated. When paired with strangers, both men and women heavily discount their partner's information relative to their own. We thus provide evidence of a gender difference in social learning (only)  in the household.
-
-- title: "The Long-Run Effects of Psychotherapy on Depression, Beliefs, and Economic Outcomes"
-  pdflink: "/pdf/Rao_psychotherapy_paper.pdf"
-  coauthors: "Bhargav Bhat, Jon de Quidt, Johannes Haushofer, Vikram Patel, Frank Schilbach and Pierre-Luc Vautrey"
-  note: "Current Version: April 2022"
-  abstract: >
-      We revisit two clinical trials that randomized depressed adults in India (n=775) to a brief course of psychotherapy or a control condition. Four to five years later, the treatment group had 11 percentage points less depression than the control group. The more effective intervention averted 9 months of depression on average over five years and cost only \$66. Therapy changed people's beliefs about themselves in three ways. First, it reduced their likelihood of seeing themselves as a failure or feeling bad about themselves. Second, when faced with a novel work opportunity, therapy reduced over-optimistic belief updating and thus reduced overconfidence. Third, it increased self-assessed levels of patience and altruism. Therapy did not increase levels of employment or consumption, possibly because of other constraints on employment in the largely female study sample.  
-
+ - title: "Temperature and Health Capital: Long-Term Consequences of Exposure in Childhood"
+  pdflink: "Draft Available Upon Request"
+  coauthors: "Catarina Midões, Francesco Vona and Enrica De Cian"
+  note: "Current Version: December 2024"
+  abstract: > This paper investigates the impact of temperature shocks, measured by the duration of heat and cold waves, on a comprehensive health measure. The proposed metric encompasses a broad range of illnesses that can be triggered or exace bated by temperature exposure. Within a human capital framework, we approximate health capital loss using the number of days lost due to disability, quantifying the severity of poor health across various life stages. Our results reveal that exposure to heat waves during childhood, particularly before the age of 10, has long-term effects on adult health. It increases the likelihood of developing illnesses and significantly affects both the severity (measured by days lost due to disability) and the duration (years impacted by illness) of morbidity in later life. The heightened sensitivity to high temperatures during childhood can be attributed to physiological factors in development that limit the ability to regulate body temperature effectively. Furthermore, children may have a restricted capacity to express discomfort caused by thermal stress and to adopt protective measures against extreme heat. Our findings show that the effect of exposure during childhood is persistent over time and that childhood exposure significantly shapes the subsequent accumulation of health capital, with potential compensatory behaviours appearing unable to fully mitigate the consequences. Our findings contribute to the assessment of climate change damages and their distributional implications by investigating long-term health consequences. Additionally, our study provides valuable insights into the literature on early childhood shocks, by considering the under-explored role of temperature shocks.
