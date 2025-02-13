@@ -4,4 +4,3 @@ I am an applied environmental economist studying the effects of climate change o
 
 __[Curriculum Vitae](/files/Short_CV_Giulia Valenti.pdf")__ (Updated Febraury 2025)
 
-#__[Research Statement](/pdf/Rao Research Statement.pdf")__ 
