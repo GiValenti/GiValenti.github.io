@@ -6,4 +6,4 @@ I am an applied environmental economist studying the effects of climate change o
 
 [Curricul Vitae](\static\pdf\CV_Giulia_Valenti.pdf)
 
-<a  href="..\static\pdf\CV_Giulia_Valenti.pdf" >[Curricul Vitae] </a>
+<a  href="..\..\static\pdf\CV_Giulia_Valenti.pdf" >[Curricul Vitae] </a>
