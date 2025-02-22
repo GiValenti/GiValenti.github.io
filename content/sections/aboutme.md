@@ -2,6 +2,6 @@ Hi, I am a PhD student in the [Science and Management of Climate Change](https:/
 
 I am an applied environmental economist studying the effects of climate change on health and labor markets, with a particular focus on its unequal impacts, long-term consequences, and the role of public adaptation strategies.
 
-[Curriculum Vitae](/content/sections/CV_Giulia_Valenti.pdf) (Updated Febraury 2025)
+[Curriculum Vitae](/content/sections/prova.txt) (Updated Febraury 2025)
 
 
