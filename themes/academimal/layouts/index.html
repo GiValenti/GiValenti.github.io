@@ -54,6 +54,18 @@
 {{ end }}
 {{ end }}
 
+{{ with .GetPage "/sections/conferences.md" }}
+<hr>
+<h2 id="conferences">Presentations</h2>
+{{ .Content }}
+{{ end }}
+
+{{ with .GetPage "/sections/teach.md" }}
+<hr>
+<h2 id="teach">Teaching</h2>
+{{ .Content }}
+{{ end }}
+
 {{ with .GetPage "/sections/from-another-life.md" }}
 <hr>
 <h2 id="fromanotherlife">From Another Life</h2>
