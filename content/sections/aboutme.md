@@ -2,7 +2,7 @@ Hi, I am a PhD student in the [Science and Management of Climate Change](https:/
 
 I am an applied environmental economist studying the effects of climate change on health and labor markets, with a particular focus on its unequal impacts, long-term consequences, and the role of public adaptation strategies.
 
-[Curriculum Vitae](../../static/pdf/CV.pdf) (Updated Febraury 2025)
+[Curriculum Vitae](/pdf/CV.pdf) (Updated Febraury 2025)
 
 
 
