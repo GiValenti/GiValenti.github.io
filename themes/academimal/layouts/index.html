@@ -4,7 +4,6 @@
 {{ .Content }}
 {{ end }}
 
-
 {{ with .GetPage "/sections/contact.md" }}
 <hr>
 <h2 id="contact">Contact</h2>
@@ -20,37 +19,15 @@
 {{ $scratch := newScratch }}
 {{ $scratch.Set "pubcnt" 0 }}
 
-{{ with .Site.Data.publications }}
+{{ with .Site.Data.research }}
 <hr>
-<h2 id="publications">Publications</h2>
+<h2 id="research">Research</h2>
 {{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
-
-{{ with .Site.Data.working_papers }}
-<hr>
-<h2 id="workingpapers">Working Papers</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
-{{ end }}
-{{ end }}
-
-{{ with .Site.Data.work_in_progress }}
-<hr>
-<h2 id="workinprogress">Work in Progress</h2>
-{{ range . }}
-{{ range .works }}
-{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
-{{ $scratch.Add "pubcnt" 1 }}   
-{{ end }}
+  <h3>{{ .section }}</h3>  <!-- Subsection title (e.g., "Working Papers") -->
+  {{ range .works }}
+    {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+    {{ $scratch.Add "pubcnt" 1 }}   
+  {{ end }}
 {{ end }}
 {{ end }}
 
@@ -80,3 +57,4 @@
 
 {{ .Content }}
 {{- end }}
+
