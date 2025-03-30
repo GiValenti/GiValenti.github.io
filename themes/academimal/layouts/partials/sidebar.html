@@ -14,6 +14,9 @@
 {{ with .Site.Data.work_in_progress }}
 <p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Work in Progress</a></p>
 {{ end }}
+{{ with .GetPage "/sections/conferences.md" }}
+<p class="conferences"><a href="{{ "#conferences" | relURL }}">Presentations</a></p>
+{{ end }}
 {{ with .GetPage "/sections/from-another-life.md" }}
 <p class="contactinfo"><a href="{{ "#fromanotherlife" | relURL }}">From Another Life</a></p>
 {{ end }}
