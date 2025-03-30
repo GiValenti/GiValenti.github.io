@@ -1,1 +1,1 @@
-**Website**: I am grateful to [Gautam Rao](https://gautam-rao.com/) for making his [GitHub repository](https://github.com/gautamrao/gautamrao.github.io) available, which served as the foundation for designing this website.
+**Website**: Thanks to [Gautam Rao](https://gautam-rao.com/) for making his [GitHub repository](https://github.com/gautamrao/gautamrao.github.io) available, which served as the foundation for designing this website.
