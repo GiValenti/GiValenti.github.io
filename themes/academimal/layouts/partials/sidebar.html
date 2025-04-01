@@ -2,14 +2,17 @@
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
+{{ with .Site.Data.publications }}
+<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Publications</a></p>
+{{ end }}
 {{ with .GetPage "data/work_in_progress/list.yaml" }}
 <p class="contactinfo"><a href="{{ "#publications" | relURL }}">Research</a></p>
 {{ end }}
 {{ with .GetPage "/sections/conferences.md" }}
-<p class="conferences"><a href="{{ "#conferences" | relURL }}">Presentations</a></p>
+<p class="contactinfo"><a href="{{ "#conferences" | relURL }}">Presentations</a></p>
 {{ end }}
 {{ with .GetPage "/sections/teaching.md" }}
-<p class="teach"><a href="{{ "#teach" | relURL }}">Teaching</a></p>
+<p class="contactinfo"><a href="{{ "#teach" | relURL }}">Teaching</a></p>
 {{ end }}
 {{ with .GetPage "/sections/personal.md" }}
 <p class="lastcontactinfo"><a href="{{ "#personal" | relURL }}">Other Info</a></p>
