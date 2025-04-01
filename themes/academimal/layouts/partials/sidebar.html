@@ -2,10 +2,7 @@
 {{ with .GetPage "/sections/contact.md" }}
 <p class="contactinfo"><a href="{{ "#contact" | relURL }}">Contact</a></p>
 {{ end }}
-{{ with .Site.Data.publications }}
-<p class="contactinfo"><a href="{{ "#publications" | relURL }}">Research</a></p>
-{{ end }}
-{{ with .Site.Data.publications }}
+{{ with .GetPage "data/work_in_progress/list.yaml" }}
 <p class="contactinfo"><a href="{{ "#publications" | relURL }}">Research</a></p>
 {{ end }}
 {{ with .GetPage "/sections/conferences.md" }}
