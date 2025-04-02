@@ -291,11 +291,11 @@ h3, h4, h5, h6 {
   color: #494949; }
 
 a {
-  color: #D32F2F !important; /* Forza il colore rosso */
+  color: #509293 !important; /* Forza il colore rosso */
   text-decoration: none;}
 
 a:hover, a:focus {
-  color: #B71C1C !important; /* Forza un rosso più scuro */}
+  color: #509293 !important; /* Forza un rosso più scuro */}
 
 a small {
   font-size: 11px;
