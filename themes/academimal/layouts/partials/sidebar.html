@@ -5,9 +5,6 @@
 {{ with .Site.Data.working_papers }}
 <p class="contactinfo"><a href="{{ "#workingpapers" | relURL }}">Research</a></p>
 {{ end }}
-{{ with .Site.Data.work_in_progress }}
-<p class="contactinfo"><a href="{{ "#workinprogress" | relURL }}">Research</a></p>
-{{ end }}
 {{ with .GetPage "/sections/conferences.md" }}
 <p class="contactinfo"><a href="{{ "#conferences" | relURL }}">Presentations</a></p>
 {{ end }}
