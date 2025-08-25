@@ -11,6 +11,13 @@
     <body>
         <div class="wrapper">
             <header>
+
+                <!-- begin photo -->
+                {{ with .Site.Params.logo }}
+                <img src="{{ . | relURL }}" alt="Logo" />
+                {{ end }}
+                <!-- end photo -->
+                
                 <h1>{{ .Site.Title }}</h1>
 
                 <!-- begin short bio -->
@@ -27,11 +34,5 @@
                 <hr/>
 
                 {{ partial "sidebar.html" . }} 
-
-                <!-- begin photo -->
-                {{ with .Site.Params.logo }}
-                <img src="{{ . | relURL }}" alt="Logo" />
-                {{ end }}
-                <!-- end photo -->
 
             </header>
