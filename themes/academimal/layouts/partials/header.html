@@ -11,18 +11,18 @@
     <body>
         <div class="wrapper">
             <header>
-
-                <!-- begin photo -->
-                {{ with .Site.Params.logo }}
-                <img src="{{ . | relURL }}" alt="Logo" />
-                {{ end }}
-                <!-- end photo -->
                 
                 <h1>{{ .Site.Title }}</h1>
 
                 <!-- begin short bio -->
                 <p>{{ .Site.Params.shortbio }}</p>
                 <!-- end short bio -->
+
+                <!-- begin photo -->
+                {{ with .Site.Params.logo }}
+                <img src="{{ . | relURL }}" alt="Logo" />
+                {{ end }}
+                <!-- end photo -->
 
                 {{/*
                 <p class="contactinfo">
