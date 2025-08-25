@@ -6,6 +6,6 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD Candidate, Ca'Foscari University"
+    shortbio = "Postdoctoral Researcher, Fondazione Eni Enrico Mattei (FEEM)"
     logo = "profile.png" 
     
