@@ -66,6 +66,12 @@
 {{ .Content }}
 {{ end }}
 
+{{ with .GetPage "/sections/blog.md" }}
+<hr>
+<h2 id="teach">Blogs</h2>
+{{ .Content }}
+{{ end }}
+
 {{ with .GetPage "/sections/from-another-life.md" }}
 <hr>
 <h2 id="fromanotherlife">From Another Life</h2>
