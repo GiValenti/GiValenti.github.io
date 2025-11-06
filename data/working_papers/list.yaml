@@ -8,6 +8,7 @@ works:
 - title: "Hot Wages: How Do Heat Waves Change the Earnings Distribution?"
   pdflink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5096539"
   coauthors: "Francesco Vona"
+  status: "Under review"
   abstract: >
    We investigate the effects of heat waves on individual earnings using rich retrospective panel data from the Survey of Health, Ageing and Retirement in Europe (SHARE), matched with high-resolution weather data from the E-OBS dataset. Our analysis covers over 32000 workers across 14 European countries from 1955 to 2019, spanning a wide range of sectors and occupations. Our identification leverages plausibly exogenous variation in heat-wave exposure by comparing individuals from different cohorts within the same generation and sub-region, while controlling for individual fixed effects, occupational sorting, and covariate balance. We find that each additional day of a heat wave reduces annual earnings by 0.31%, corresponding on average to a loss of $159.63 per year. The effect is particularly pronounced in outdoor heat-exposed occupations, with an average annual loss of $272.57, and is especially strong among workers performing manual and clerical tasks. Importantly, the impact is substantially mitigated in countries with highly centralized collective bargaining systems. Finally, our findings indicate that heat waves exacerbate existing income inequalities, disproportionately harming individuals with lower education, lower income, and disadvantaged family backgrounds.
 
