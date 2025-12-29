@@ -1,7 +1,9 @@
 works:
 - title: "Mortality, Temperature, and Public Adaptation Policy: Evidence from Italy"
   pdflink: "https://feem-media.s3.eu-central-1.amazonaws.com/wp-content/uploads/NDL2025-35.pdf"
-  coauthors: "[Filippo Pavanello](https://fpavanello.github.io/)"
+  coauthors:
+      - name: "Filippo Pavanello"
+        url: "https://fpavanello.github.io/"
   abstract: >
    In 2004, Italy introduced a national program to address heat-related health risks, combining public awareness campaigns, heat-wave warning systems, and hospital protocols. Leveraging administrative mortality data and high-frequency temperature variation, we show that the program reduced heat-related mortality by more than 57% on days at or above 30°C. To identify the mechanisms, we exploit the staggered introduction of heat-wave warning systems across provinces and show that treated areas experienced substantially larger reductions in heat-related mortality. We further document that information disclosure plays a key role in driving these reductions. Overall, our findings underscore the importance of public adaptation policies that rely on information provision to cost-effectively mitigate the health impacts of extreme temperatures.
    
