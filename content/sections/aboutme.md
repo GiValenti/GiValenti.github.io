@@ -1,4 +1,4 @@
-Hi, I am currently a Postdoctoral Researcher at [Fondazione Eni Enrico Mattei (FEEM)](https://www.feem.it/) in the ‘Labour in the Low Carbon Transition’ (LILT) research group.
+Hi, I am currently a Postdoctoral Researcher at [Fondazione Eni Enrico Mattei (FEEM)](https://www.feem.it/) in the [‘Labour in the Low Carbon Transition’ (LILT)](https://www.feem.it/en/ricerca/programmi/labour-in-the-low-carbon-transition/) research group.
 
 I am an applied environmental economist studying how climate change affects health and labor markets, exploring its unequal impacts, long-term consequences, and adaptation strategies.
 
