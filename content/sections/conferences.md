@@ -1,4 +1,4 @@
-**2026**: IAERE Annual Conference, Internal Seminar at the PIK, Research Lab on Societal Transition and Well-being *(invited)*
+**2026**: WCERE 2026 *(scheduled)*, IV Workshop on Public Policies - IEB *(scheduled)*,  Mannheim Conference on Energy and the Environment - ZEW *(scheduled)*, IAERE Annual Conference, Internal Seminar at the PIK, Research Lab on Societal Transition and Well-being *(invited)*
 
 **2025**: Internal Seminar at the Policy Evaluation Lab, PIK *(invited)*, 66th Annual Conference of the Italian Economic Association (SIE), EAERE Annual Conference, AERE Summer Conference, IZA Workshop on Climate and Environmental Economics, ifo Workshop on the Economics of Adaptation to Climate Change, Workshop IdEP in Sustainable Economics, IAERE Annual Conference
 
