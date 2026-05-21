@@ -1,6 +1,6 @@
-**Fall 2024, 2025**: TA in Global and Climate Change Economics (20h), MSc in Environmental and Food Economics (University of Milan)
+**Spring 2025, 2026**: TA in Economics and Policy of Climate Change (22h), BA in Environmental Science and Policy (University of Milan)
 
-**Spring 2025**: TA in Economics and Policy of Climate Change (22h), BA in Environmental Science and Policy (University of Milan)
+**Fall 2024, 2025**: TA in Global and Climate Change Economics (20h), MSc in Environmental and Food Economics (University of Milan)
 
 **Fall 2021**: TA in Mathematics (30h), BA in Economics, Markets and Finance (Ca' Foscari University of Venice)
 
